@@ -1,25 +1,5 @@
 [
     {
-        "name": "BeIN",
-        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
-    },
-    {
-        "name": "BeIN",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
-    },
-    {
-        "name": "PTV",
-        "url": "http://103.250.28.74:8000/play/a019/index.m3u8"
-    },
-    {
-        "name": "STAR 2",
-        "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
-    },
-    {
-        "name": "T SPORTS",
-        "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
-    },
-    {
         "name": "T SPORTS",
         "url": "https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8"
     },
@@ -38,5 +18,25 @@
     {
         "name": "STAR HINDI",
         "url": "https://starsportshindiii.pages.dev/index.m3u8"
+    },
+    {
+        "name": "BeIN",
+        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
+    },
+    {
+        "name": "BeIN",
+        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+    },
+    {
+        "name": "PTV",
+        "url": "http://103.250.28.74:8000/play/a019/index.m3u8"
+    },
+    {
+        "name": "STAR 2",
+        "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
+    },
+    {
+        "name": "T SPORTS",
+        "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
     }
 ]
